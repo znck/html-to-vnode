@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@vue/compiler-core": "^3.0.0-alpha.7",
+    "cli-highlight": "^2.1.4"
+  }
+}
